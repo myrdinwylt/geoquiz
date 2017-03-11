@@ -19,7 +19,7 @@
     android:padding="24dp"
     android:textColor="#000000"
     android:textStyle="normal"
-    android:textSize="9pt"
+    android:textSize="14sp"
     android:textAlignment="center"
     android:id="@+id/question_text_view"/>
 <LinearLayout
