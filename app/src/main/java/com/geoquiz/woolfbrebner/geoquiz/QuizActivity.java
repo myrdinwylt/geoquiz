@@ -9,9 +9,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.ImageButton;
-//assuming your Layout is named linearlayout1:
- LinearLayout ll = (LinearLayout) findViewById(R.id.linearlayout1);
-         ll.setBackgroundResource(R.drawable.back);
+
 public class QuizActivity extends AppCompatActivity {
     private static final String TAG = "QuizActivity";
     private static final String KEY_INDEX = "index";
